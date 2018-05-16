@@ -1,0 +1,7 @@
+[package]
+name = "repro-or-else"
+version = "0.1.0"
+authors = ["Yoshua Wuyts <yoshuawuyts@gmail.com>"]
+
+[dependencies]
+failure = "0.1.1"
